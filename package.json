@@ -1,0 +1,8 @@
+{
+  "name": "edu.uoc.cordova.plugins.openAPI",
+  "version": "0.0.1",
+  "description": "UOC openAPI Cordova Plugin",
+  "author": "Universtitat Oberta de Catalunya",
+  "license": "MIT",
+  "repository": "git@github.com:rromerogar/edu.uoc.cordova.plugins.openAPI.git"
+}
